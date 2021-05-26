@@ -2,7 +2,7 @@
 public class BubbleSortAscending {
 		
 	public static void main(String[] args) {
-		int array[] = new int[] {23,11,56,98,75,43,28,54,25,14,73,45};
+		int array[] = new int[] {23,11,9,56,98,75,43,28,54,25,14,73,45};
 		System.out.println("Array before bubble sort: " );
 		printArray(array);
 		boolean isSorted = false;
